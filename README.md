@@ -1,1 +1,1 @@
-[1. Two Sum](https://leetcode.com/problems/two-sum/description/) - Solutionы [<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="16"/>](https://github.com/majortom69/Leetcode/blob/master/cpp/1.cpp)
+[1. Two Sum](https://leetcode.com/problems/two-sum/description/) - Solutions [<img src="[https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png](https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg)" width="16"/>](https://github.com/majortom69/Leetcode/blob/master/cpp/1.cpp)
